@@ -20,6 +20,9 @@
 </div> <!-- close navbar -->
 
 <div id="container">
+
+<p>Hello, this is a container</p>
+
 	<header>
 		<h1><?php bloginfo('name'); ?></h1>
 	</header>
